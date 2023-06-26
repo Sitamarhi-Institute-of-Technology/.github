@@ -1,4 +1,4 @@
-# **👋 Hey there, future tech wizards of Stamarhi Institute of Technology!**
+## **👋 Hey there, future tech wizards of Stamarhi Institute of Technology!**
 
 Welcome to the innovation hub where minds meet and ideas ignite! We're thrilled to have you as part of our tech-savvy community.
 
