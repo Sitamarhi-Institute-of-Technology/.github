@@ -1,6 +1,10 @@
 ## **👋 Hey there, future tech wizards of Stamarhi Institute of Technology!**
 
-Welcome to the innovation hub where minds meet and ideas ignite! We're thrilled to have you as part of our tech-savvy community.
+<br>
+<img src="https://github.com/Sitamarhi-Institute-of-Technology/.github/assets/104882734/4b4d4d8c-998a-4f25-831c-30513afca4f4"  width="100%"><br><br>
+
+## Welcome to the innovation hub where minds meet and ideas ignite! We're thrilled to have you as part of our tech-savvy community.
+
 
 At Stamarhi Institute of Technology, we're all about pushing boundaries and embracing the wonders of technology. Get ready to dive into a world of cutting-edge discoveries, mind-blowing inventions, and endless possibilities.
 
@@ -17,6 +21,6 @@ Let's embark on an electrifying journey together and make Stamarhi Institute of 
 **Tech on, my friends! 🚀🔥**
 
 > Happy Hunting!...
-><img src="https://github.com/Sitamarhi-Institute-of-Technology/.github/assets/104882734/4b4d4d8c-998a-4f25-831c-30513afca4f4"  width="100%">
+
 
 <!--https://github.com/Sitamarhi-Institute-of-Technology/.github/assets/104882734/360e35a3-e21c-404b-9c87-602e97962350-->
