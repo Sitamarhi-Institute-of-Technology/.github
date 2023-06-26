@@ -17,5 +17,5 @@ Let's embark on an electrifying journey together and make Stamarhi Institute of 
 **Tech on, my friends! 🚀🔥**
 
 > Happy Hunting!...
-><img src="https://github.com/Sitamarhi-Institute-of-Technology/.github/assets/104882734/4b4d4d8c-998a-4f25-831c-30513afca4f4" align="center" width="70%">
+><img src="https://github.com/Sitamarhi-Institute-of-Technology/.github/assets/104882734/4b4d4d8c-998a-4f25-831c-30513afca4f4"  width="70%">
 
