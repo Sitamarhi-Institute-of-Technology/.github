@@ -1,4 +1,4 @@
-<h1>👋Hey there, 
+<h1>👋Hey there, <br>
   future tech wizards of Stamarhi Institute of Technology! </h1>
 
 <br>
