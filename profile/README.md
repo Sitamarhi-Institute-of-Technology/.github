@@ -1,4 +1,4 @@
-<h1>Hey there, future tech wizards of Stamarhi Institute of Technology! </h1>
+<h1 align="center" width="100%">Hey there, future tech wizards of Stamarhi Institute of Technology! </h1>
 
 <br>
 <img src="https://github.com/Sitamarhi-Institute-of-Technology/.github/assets/104882734/4b4d4d8c-998a-4f25-831c-30513afca4f4"  width="100%"><br><br>
